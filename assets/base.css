@@ -211,3 +211,7 @@ footer .footer__payment {
 .template-gift-card main img {
   display: unset;
 }
+
+h1 {
+  color: red;
+}
